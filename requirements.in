@@ -1,0 +1,8 @@
+# FastApi
+fastapi
+uvicorn
+python-multipart
+pydantic[email]
+
+# Pip tools
+pip-tools
